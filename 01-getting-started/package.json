@@ -1,0 +1,11 @@
+{
+  "name": "get-user-by-id",
+  "version": "1.0.0",
+  "description": "Example of a simple nodejs lambda handler using a path parameter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rico Fritzsche",
+  "license": "ISC"
+}
